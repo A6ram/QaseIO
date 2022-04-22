@@ -27,3 +27,4 @@ public class LoginPage extends BasePage{
         $(LOGIN_BUTTON).click();
     }
 }
+

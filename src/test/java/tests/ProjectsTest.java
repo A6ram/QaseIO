@@ -23,3 +23,4 @@ public class ProjectsTest extends BaseTest{
         assertEquals(projectPage.getProjectName(), project.getProjectName(), "Project name doesn't match");
     }
 }
+

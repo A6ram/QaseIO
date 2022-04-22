@@ -18,3 +18,4 @@ public class ProjectPage extends BasePage{
         return $(PROJECT_HEADER).getText();
     }
 }
+

@@ -35,3 +35,4 @@ public class NewProjectPage extends BasePage{
         $(CREATE_BUTTON).click();
     }
 }
+
